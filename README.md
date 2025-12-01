@@ -29,8 +29,8 @@ Mobile 370px
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/BogdanSDev/QR-code-webpage-Frontend-mentor-)
-- Live Site URL: [GitHub Pages](https://bogdansdev.github.io/QR-code-webpage-Frontend-mentor-/)
+- Solution URL: [GitHub](https://github.com/BogdanSDev/Blog-preview-card-Frontend-Mentor/tree/main?tab=readme-ov-file)
+- Live Site URL: [GitHub Pages](https://bogdansdev.github.io/Blog-preview-card-Frontend-Mentor/)
 
 ## My process
 
